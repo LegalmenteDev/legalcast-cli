@@ -20,7 +20,7 @@
     "@oclif/core": "^2",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.4.4",
-    "supabase": "^1.49.4"
+    "supabase": "^1.64.8"
   },
   "devDependencies": {
     "@oclif/test": "^2.3.14",
